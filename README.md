@@ -52,3 +52,10 @@ The notebook compares classification performance across models and investigates 
 ## Disclaimer
 
 This is an academic project developed for educational and research purposes. Model results depend on the dataset, preprocessing, and experimental setup.
+
+## System Architecture
+
+The diagram below illustrates the workflow from network traffic data
+preprocessing through ML/DL modeling, evaluation, and early-warning outputs.
+
+![Network Threat Detection System Architecture](https://github.com/maftuna-coder/network-threat-detection-ml-dl/blob/main/architecture.png)
